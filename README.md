@@ -1,5 +1,6 @@
 ### Welcome 👋 
 ### 안녕하세요 송재현입니다.
+[깃허브 블로그](https://tommyjr1.github.io)
 
 <!--
 **tommyjr1/tommyjr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
